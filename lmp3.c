@@ -1,4 +1,3 @@
-// gcc.exe -shared "D:\VBProjects\MEDIA\mp3\minimp3-master\mp3_decode_test.c" -o "D:\VBProjects\MEDIA\mp3\minimp3-master\test.dll"
 #define MINIMP3_IMPLEMENTATION
 //#define MINIMP3_NO_SIMD
 #define MINIMP3_ONLY_MP3
